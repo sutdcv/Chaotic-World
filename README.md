@@ -21,7 +21,6 @@ Understanding and analyzing human behaviors (actions and interactions of people)
 
 # Acknowledgement and Contributors
 
-We would like to thank our annotators 
 - Foo Lin Geng
 - Goh Jet Wei
 - Hui Xiaofei
@@ -34,6 +33,3 @@ We would like to thank our annotators
 - Umali Mike Guil Anonuevo
 - Xu Li
 - Zhang Wenxiao
-
-
-for working on the annotations and conducting the quality checks.
