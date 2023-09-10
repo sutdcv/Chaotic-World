@@ -10,8 +10,7 @@ This is the official repository for <br/>**[[2023 ICCV] Chaotic World: A Large a
 
 
 # Paper
-[2023 ICCV (Coming soon)]() [arXiv (Coming soon)]()
-[ResearchGate](https://www.researchgate.net/publication/373692522_Chaotic_World_A_Large_and_Challenging_Benchmark_for_Human_Behavior_Understanding_in_Chaotic_Events)
+[Download Paper](https://www.researchgate.net/profile/Kian-Eng-Ong/publication/373692522_Chaotic_World_A_Large_and_Challenging_Benchmark_for_Human_Behavior_Understanding_in_Chaotic_Events/links/64f87116f160f748d6d1572f/Chaotic-World-A-Large-and-Challenging-Benchmark-for-Human-Behavior-Understanding-in-Chaotic-Events.pdf)
 
 ## Citation
 Coming soon
