@@ -3,7 +3,6 @@
 This is the official repository for <br/>**[[2023 ICCV] Chaotic World: A Large and Challenging Benchmark for Human Behavior Understanding in Chaotic Events]()**
 <br/>**Kian Eng ONG, Xun Long NG, Yanchao LI, Wenjie AI, Kuangyi ZHAO, Si Yong YEO, Jun LIU**
 <br/>*Information Systems Technology and Design, Singapore University of Technology and Design, Singapore*
-<br/>*Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore*
 
 # [Dataset and Codes](https://forms.office.com/r/4pvkiZsVKz)
 **[Download dataset and codes here](https://forms.office.com/r/4pvkiZsVKz)**
