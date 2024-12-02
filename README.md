@@ -2,11 +2,8 @@
 This is the official repository for <br/>**[[2023 ICCV] Chaotic World: A Large and Challenging Benchmark for Human Behavior Understanding in Chaotic Events](https://openaccess.thecvf.com/content/ICCV2023/html/Ong_Chaotic_World_A_Large_and_Challenging_Benchmark_for_Human_Behavior_ICCV_2023_paper.html)**
 <br/>**Kian Eng ONG, Xun Long NG, Yanchao LI, Wenjie AI, Kuangyi ZHAO, Si Yong YEO, Jun LIU**
 
-**[NEW - 06 Feb 2024] We are organizing the 2024 ICME Grand Challenge: Multi-Modal Video Reasoning and Analyzing Competition (MMVRAC) based on this dataset. The Grand Challenge starts on 06 Feb 2024 and will end on 25 March 2024.**
-**More details can be found at [https://sutdcv.github.io/MMVRAC](https://sutdcv.github.io/MMVRAC)**
-
-# [Dataset and Codes](https://forms.office.com/r/4pvkiZsVKz)
-**[Download dataset and codes here](https://forms.office.com/r/4pvkiZsVKz)**
+# [Dataset and Codes](https://forms.gle/KwFW2fa7NCpopcnG8)
+**[Download dataset and codes here](https://forms.gle/KwFW2fa7NCpopcnG8)**
 
 
 # Paper
